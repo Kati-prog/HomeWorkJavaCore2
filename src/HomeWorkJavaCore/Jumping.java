@@ -11,3 +11,4 @@ public class Jumping extends Obstacle {
         partner.jump(super.getDifficulty());
     }
 }
+//

@@ -14,3 +14,4 @@ public class Cross extends Obstacle {
     }
 
 }
+//

@@ -12,3 +12,4 @@ public class Swim extends Obstacle {
         partner.swim(super.getDifficulty());
     }
 }
+//
